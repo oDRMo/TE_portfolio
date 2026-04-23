@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/oDRMo/TechEmp_portfolio/blob/main/TE_Logo.png" alt="Logo" width="500">
+  <img src="https://github.com/oDRMo/TE_portfolio/blob/main/TE_logo.png" alt="Logo" width="500">
 </p>
 <h1 align="center">E-commerce Performance Report</h1>
 <div style="border: 1px solid lightgrey; padding: 15px; border-radius: 5px;">
