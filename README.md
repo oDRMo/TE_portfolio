@@ -8,10 +8,12 @@
 
 <b>TechEmperor</b> is a US-based e-commerce company established in 2018, selling electronics and accessories via its website and mobile app to a global customer base through multiple platforms (mobile, tablet, desktop). The company acquires customers through multiple channels including social media, email, affiliate partnerships, and direct traffic, and retains customers through a loyalty program offering members discounts and rebates.
 
-This analysis was initiated at the request of the stakeholder in preparation for a company-wide town hall. <b>TechEmperor</b>'s sales data of over 108,000 transactions will be used to evaluate the company's performance from 2019 to 2022 and provide recommendations for internal teams on next steps, which may include further data collection before decisions can be made. Furthermore, it will examine the following areas:
+This analysis was initiated at the request of the stakeholder in preparation for a company-wide town hall. <b>TechEmperor</b>'s sales data of over 108,000 transactions will be used to evaluate the company's performance from 2019 to 2022 and provide recommendations for internal teams on next steps, which may include further data collection before decisions can be made. 
+
+The following areas will be evaluated within the sales data:
 * Sales trends - Revenue, order count, Average Order Value (AOV)
-* Product performance - Product lines, catalog, market impacts, mefund Rates
-* Loyalty program - Evaluation and comparison between Loyalty v.s. Non-loyalty
+* Product performance - Product lines, catalog, market impacts, refund Rates
+* Loyalty program - Evaluation and comparison between Loyalty vs. Non-loyalty
 * Regional results - Demand and product performance sliced by regions
 
 The Entity-Relationship model can be viewed [here](https://)
